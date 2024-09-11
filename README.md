@@ -13,7 +13,8 @@ What was the rental revenue for each month? etc.
 ## Schema
 
 Check (Bike_rental_Schema.sql) File in the Project Repository
-Note: RDBMS used - PostgreSQL
+
+- **Note:** RDBMS used - PostgreSQL
 
 ##  Problem Statements
  Following are the business questions that Emily wants answers to.
@@ -136,10 +137,10 @@ order by customer_count;
 
 ## Findings and Conclusion
 
-Bike Inventory: The shop has a good number of bikes in most categories, but there might be a need to increase the inventory of certain categories based on demand.
-Customer Loyalty: Some customers have purchased multiple memberships, indicating high customer loyalty.
-Rental Revenue: The shop generates significant revenue from rentals, with certain months and years showing higher revenue than others.
-Membership Revenue: Membership sales contribute to the overall revenue, and certain membership types might be more popular than others.
-Customer Segmentation: The customer segmentation analysis can help the shop tailor marketing strategies to different customer segments.
+- **Bike Inventory:** The shop has a good number of bikes in most categories, but there might be a need to increase the inventory of certain categories based on demand.
+- **Customer Loyalty** Some customers have purchased multiple memberships, indicating high customer loyalty.
+- **Rental Revenue:** The shop generates significant revenue from rentals, with certain months and years showing higher revenue than others.
+- **Membership Revenue:** Membership sales contribute to the overall revenue, and certain membership types might be more popular than others.
+- **Customer Segmentation:** The customer segmentation analysis can help the shop tailor marketing strategies to different customer segments.
 
 By analyzing these data points, the bike rental shop can make informed decisions to improve its operations, increase revenue, and enhance customer satisfaction.
