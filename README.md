@@ -4,3 +4,17 @@
  This case study is taken from [LearnSQL.com](https://learnsql.com/). It is part of the "November 2023 
 SQL Challengeˮ course 
 
+## Objective
+
+Emily is the shop owner, and she would like to gather data to help her grow the 
+business. She has hired you as an SQL specialist to get the answers to her 
+business questions such as How many bikes does the shop own by category? 
+What was the rental revenue for each month? etc.
+
+## Schema
+
+![](https://github.com/Naveenkumar3012/SQL_Project_2/blob/main/Bike_rental_Schema.sql)
+
+##  Problem Statements
+ Following are the business questions that Emily wants answers to.
+ 
