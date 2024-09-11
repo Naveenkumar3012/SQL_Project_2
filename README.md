@@ -13,8 +13,11 @@ What was the rental revenue for each month? etc.
 
 ## Schema
 
-![](https://github.com/Naveenkumar3012/SQL_Project_2/blob/main/Bike_rental_Schema.sql)
+
 
 ##  Problem Statements
  Following are the business questions that Emily wants answers to.
  
+![](https://github.com/Naveenkumar3012/SQL_Project_2/blob/main/Problem%20Statement%201.jpeg)
+![](https://github.com/Naveenkumar3012/SQL_Project_2/blob/main/Problem%20Statement%202.jpeg)
+![](https://github.com/Naveenkumar3012/SQL_Project_2/blob/main/Problem%20Statement%203.jpeg)
